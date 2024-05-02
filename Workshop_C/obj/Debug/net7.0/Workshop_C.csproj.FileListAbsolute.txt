@@ -1,0 +1,15 @@
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/bin/Debug/net7.0/Workshop_C
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/bin/Debug/net7.0/Workshop_C.deps.json
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/bin/Debug/net7.0/Workshop_C.runtimeconfig.json
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/bin/Debug/net7.0/Workshop_C.dll
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/bin/Debug/net7.0/Workshop_C.pdb
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/obj/Debug/net7.0/Workshop_C.csproj.AssemblyReference.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/obj/Debug/net7.0/Workshop_C.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/obj/Debug/net7.0/Workshop_C.AssemblyInfoInputs.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/obj/Debug/net7.0/Workshop_C.AssemblyInfo.cs
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/obj/Debug/net7.0/Workshop_C.csproj.CoreCompileInputs.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/obj/Debug/net7.0/Workshop_C.dll
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/obj/Debug/net7.0/refint/Workshop_C.dll
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/obj/Debug/net7.0/Workshop_C.pdb
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/obj/Debug/net7.0/Workshop_C.genruntimeconfig.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/Workshop_C/obj/Debug/net7.0/ref/Workshop_C.dll

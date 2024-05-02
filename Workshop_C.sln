@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workshop_C", "Workshop_C\Workshop_C.csproj", "{09F4C69E-08E8-41E5-96D0-90F685FCE2A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkShop_CTests", "WorkShop_CTests\WorkShop_CTests.csproj", "{E53DB849-4AFD-4FF7-9308-CCD22C0D6ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F4C69E-08E8-41E5-96D0-90F685FCE2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F4C69E-08E8-41E5-96D0-90F685FCE2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F4C69E-08E8-41E5-96D0-90F685FCE2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F4C69E-08E8-41E5-96D0-90F685FCE2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53DB849-4AFD-4FF7-9308-CCD22C0D6ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53DB849-4AFD-4FF7-9308-CCD22C0D6ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53DB849-4AFD-4FF7-9308-CCD22C0D6ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53DB849-4AFD-4FF7-9308-CCD22C0D6ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
