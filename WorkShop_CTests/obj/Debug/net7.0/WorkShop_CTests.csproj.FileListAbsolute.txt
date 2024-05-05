@@ -102,3 +102,4 @@
 /Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/WorkShop_CTests/obj/Debug/net7.0/WorkShop_CTests.pdb
 /Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/WorkShop_CTests/obj/Debug/net7.0/WorkShop_CTests.genruntimeconfig.cache
 /Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/WorkShop_CTests/obj/Debug/net7.0/ref/WorkShop_CTests.dll
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/WorkShop_CTests/bin/Debug/net7.0/JetBrains.Annotations.dll

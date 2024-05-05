@@ -95,6 +95,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2023.3.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.5.0, )"

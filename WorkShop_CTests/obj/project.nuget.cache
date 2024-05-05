@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cypzbLjTgHrrHCP9ayOP++Z32jSACUn7abbVHL6jRw8OgHIesoOq8i+xmdUBNifNAPtKGLdvYaM3kHeDWycPQA==",
+  "dgSpecHash": "WkkVZielm/w2uNA5hkAwdqTgs1BlROU34YGIe2mkzQLdrmaqf/xawCTvaTi7/GwEuYnbe8NFvS6zOAx0/+ySTg==",
   "success": true,
   "projectFilePath": "/Users/sigmotoa/Documents/UD/2024_1/ridercodes/Workshop_C/WorkShop_CTests/WorkShop_CTests.csproj",
   "expectedPackageFiles": [
     "/Users/sigmotoa/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
+    "/Users/sigmotoa/.nuget/packages/jetbrains.annotations/2023.3.0/jetbrains.annotations.2023.3.0.nupkg.sha512",
     "/Users/sigmotoa/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",
     "/Users/sigmotoa/.nuget/packages/microsoft.net.test.sdk/17.5.0/microsoft.net.test.sdk.17.5.0.nupkg.sha512",
     "/Users/sigmotoa/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",

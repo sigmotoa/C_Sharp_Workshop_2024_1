@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "WorkShop_CTests/1.0.0": {
         "dependencies": {
+          "JetBrains.Annotations": "2023.3.0",
           "Microsoft.NET.Test.Sdk": "17.5.0",
           "Workshop_C": "1.0.0",
           "coverlet.collector": "3.2.0",
@@ -19,6 +20,14 @@
         }
       },
       "coverlet.collector/3.2.0": {},
+      "JetBrains.Annotations/2023.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "4242.42.42.42",
+            "fileVersion": "2023.3.0.0"
+          }
+        }
+      },
       "Microsoft.CodeCoverage/17.5.0": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -1040,6 +1049,13 @@
       "sha512": "sha512-xjY8xBigSeWIYs4I7DgUHqSNoGqnHi7Fv7/7RZD02rvZyG3hlsjnQKiVKVWKgr9kRKgmV+dEfu8KScvysiC0Wg==",
       "path": "coverlet.collector/3.2.0",
       "hashPath": "coverlet.collector.3.2.0.nupkg.sha512"
+    },
+    "JetBrains.Annotations/2023.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PHfnvdBUdGaTVG9bR/GEfxgTwWM0Z97Y6X3710wiljELBISipSfF5okn/vz+C2gfO+ihoEyVPjaJwn8ZalVukA==",
+      "path": "jetbrains.annotations/2023.3.0",
+      "hashPath": "jetbrains.annotations.2023.3.0.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/17.5.0": {
       "type": "package",

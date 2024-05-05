@@ -1,6 +1,9 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=09F4C69E_002D08E8_002D41E5_002D96D0_002D90F685FCE2A7/@EntryIndexedValue">E53DB849-4AFD-4FF7-9308-CCD22C0D6ACC</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=xUnit/@EntryIndexedValue">33ff99d8-b1ad-4ed5-a4fd-376b97c2c841</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e0f0e1e3_002D1580_002D46ae_002Daa18_002Dad2e80dad0ab/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="StringOperationTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::E53DB849-4AFD-4FF7-9308-CCD22C0D6ACC::net7.0::WorkShop_CTests.StringOperationTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::E53DB849-4AFD-4FF7-9308-CCD22C0D6ACC::net7.0::WorkShop_CTests.GeometricOperationsTest&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
